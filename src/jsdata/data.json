@@ -1,0 +1,46 @@
+[
+    {
+        "hits": [
+            {
+                "item_id" : 1,
+                "item_name" : "test 1",
+                "description" : "test description",
+                "item_group" : "group 1",
+                "product_or_service" : "Product 1",
+                "unit_of_measurement" : "test",
+                "item_category" : "Cate 1",
+                "buy_or_sell" : "test_1",
+                "hsn_code" : "test_3",
+                "tax" : 2,
+                "keep_stock" : true,
+                "serial_number" : false,
+                "batch_number" : false,
+                "servicable" : true,
+                "item_combo" : false,
+                "item_barcode" : false,
+                "item_qc" : false,
+                "item_active" : true
+            },
+            {
+                "item_id" : 2,
+                "item_name" : "test 2",
+                "description" : "test description 2",
+                "item_group" : "group 2",
+                "product_or_service" : "Product 2",
+                "unit_of_measurement" : "test",
+                "item_category" : "Cate 2",
+                "buy_or_sell" : "test_5",
+                "hsn_code" : "test_6",
+                "tax" : 12,
+                "keep_stock" : true,
+                "serial_number" : false,
+                "batch_number" : false,
+                "servicable" : true,
+                "item_combo" : false,
+                "item_barcode" : false,
+                "item_qc" : false,
+                "item_active" : true
+            }
+        ]
+    }
+]
